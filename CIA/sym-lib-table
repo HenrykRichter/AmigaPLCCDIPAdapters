@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name DeniseAdapter-rescue)(type Legacy)(uri ${KIPRJMOD}/DeniseAdapter-rescue.lib)(options "")(descr ""))
+  (lib (name Amiga-Chips)(type Legacy)(uri ${KIPRJMOD}/amiga-chips.lib)(options "")(descr ""))
+)

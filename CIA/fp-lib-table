@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name Baxlogo)(type KiCad)(uri ${KIPRJMOD}/Bax.pretty)(options "")(descr ""))
+)
