@@ -27,6 +27,9 @@ pins who sit under the PLCC socket. Mount the PLCC socket next and carefully sol
 - 2 pin strips 2.54mm, 20 pins each (e.g. BKL 10120536 at Reichelt.de)
 - 1 THT PLCC socket, 44 pins (e.g. PLCC 44 at Reichelt.de)
 - 1 pin strip angled 1x4 RM2.54 (e.g. W+P 946-134 at Reichelt.de), optional
+Please note that the angled 1x4 connector is useful only if you are going to extract
+the DTR or CTS signals for further use (CIA-B only). Otherwise, it doesn't need to
+be fitted.
 
 ## Video Hybrid
 
